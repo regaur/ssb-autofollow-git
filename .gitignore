@@ -1,5 +1,6 @@
 pkg/
 src/
+ssb-autofollow/
 *.pkg.tar.xz
 *.pkg.tar.xz.sig
 
