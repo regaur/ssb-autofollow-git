@@ -1,7 +1,7 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 
 pkgname=ssb-autofollow-git
-pkgver=1.0.0.r3.8c78f8f
+pkgver=1.0.0.r5.473f74d
 pkgrel=1
 pkgdesc="This Scuttlebot plugin automatically follows feeds specified in the config file"
 arch=('any')
